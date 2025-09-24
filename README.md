@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24'09.2025
+## Register Number:25017615
+## Name:M.shyam
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,16 +41,11 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+To support small and marginal farmers in India, we propose an AI-powered, multilingual smart agriculture advisory platform accessible via a mobile app and chatbot. This platform provides real-time, personalized guidance on crop selection, soil health, fertilizer use, pest and disease management, weather alerts, and market prices. By analyzing soil data, historical crop patterns, and local weather, the system suggests optimal crops, sowing and harvesting times, and sustainable farming practices. Farmers can upload soil test results or images of affected crops, and AI-driven recommendations guide fertilizer use and pest control. The platform offers regional language and voice support for low-literacy users and works offline in areas with limited connectivity. Market insights help farmers maximize profits, while a feedback mechanism enables continuous improvement of recommendations. Overall, this solution empowers farmers with scientific insights, increases crop yields, reduces costs, encourages sustainable practices, and improves livelihoods, while assisting agricultural agencies and cooperatives in monitoring and supporting local farming communities.
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+
+The proposed solution will be implemented using a combination of data-driven AI models, mobile technologies, and cloud infrastructure. The platform will collect and analyze soil data, crop history, local weather patterns, and market prices to provide personalized crop advisory and fertilizer recommendations. Farmers can upload images of plants affected by pests or diseases, which will be processed using image recognition algorithms to identify issues and suggest corrective measures. Weather-based predictive alerts will help farmers take timely preventive actions, while market insights guide decisions on crop sales. The system will support regional languages and voice interactions to ensure accessibility for low-literacy users and include offline capabilities for areas with limited connectivity. Continuous feedback from farmers will be collected to refine AI models and improve accuracy over time. Overall, this technical approach ensures real-time, location-specific, and actionable insights that enhance productivity, promote sustainable practices, and improve farmer livelihoods.
 
 ## Feasibility and Viability
 <h3>Remove These Lines</h3>
